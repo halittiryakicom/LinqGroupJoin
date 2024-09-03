@@ -1,0 +1,1 @@
+#Burada C# ile birlike Group Join örneði yaptýk
